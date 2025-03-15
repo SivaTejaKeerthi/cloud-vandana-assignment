@@ -23,4 +23,4 @@ This project is a responsive profile card built using HTML and CSS. It displays 
 
 Let me know if you need modifications! 🚀
 
-![Profile Picture](KEERTHI SIVA TEJA.jpg)
+
