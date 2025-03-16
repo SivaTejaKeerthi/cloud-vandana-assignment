@@ -54,6 +54,3 @@ Salary     : 17000.0
 
 ## Author  
 - **Keerthi Siva Teja**  
-```
-
-Make sure to replace `"your-username/repository-name"` with your actual GitHub repository URL. Let me know if you need any modifications! 🚀
